@@ -7,17 +7,17 @@ Whether you’re a student, beginner, or developer, this repository will walk yo
 
 📘 In this guide, you will learn:
 
-🧩 What Git, Git Bash, and GitHub are — and how they work together
+- What Git, Git Bash, and GitHub are — and how they work together
 
-⚙️ How to set up Git Bash on your computer
+- How to set up Git Bash on your computer
 
-🌐 How to create and clone a GitHub repository
+- How to create and clone a GitHub repository
 
-🧠 How to configure Git with your username and email (one-time setup)
+- How to configure Git with your username and email (one-time setup)
 
-💾 How to add, commit, and push your files step by step
+- How to add, commit, and push your files step by step
 
-🎯 How to verify your uploaded project on GitHub
+- How to verify your uploaded project on GitHub
 
 By the end of this tutorial, you’ll have the confidence to:
 ✅ Upload your own projects to GitHub
@@ -26,9 +26,9 @@ By the end of this tutorial, you’ll have the confidence to:
 
 ✨ No complicated words, no confusion — just clear explanations and real steps that actually work!
 
-🧑‍💻 Author Information
+# 🧑‍💻 Author Information
 
-👤 Author: Usman
+👤 Author: **Muhammd Usman**
 📧 Email: [Muhammad_usman2023@hotmail.com]
 
 🌐 GitHub: [https://github.com/yourusername](https://github.com/usman-rizz)
