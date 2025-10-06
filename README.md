@@ -1,4 +1,4 @@
-🚀 Learn Git and GitHub from Scratch
+## 🚀 Learn Git and GitHub from Scratch
 
 From installing Git Bash to pushing your first project using the Cloning Method — this guide makes everything simple, clear, and beginner-friendly!
 
